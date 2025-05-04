@@ -50,6 +50,7 @@ F I N T E C H  •  A I  •  T R A D I N G  •  D E V E L O P M E N T
 
 *AI-powered market movement forecasting system*
 
+### [Sudoku-Solver](https://github.com/cyclocerine/Sudoku-Solver)
 </div>
 
 ## 🧠 PHILOSOPHY
@@ -91,7 +92,7 @@ FUTURE       [ Advanced Predictive Models | Institutional-Grade Trading Systems 
 
 [LinkedIn](https://www.linkedin.com/in/faiq-hammam-mutaqin-9a3733217/) • 
 [GitHub](https://github.com/cyclocerine) • 
-[Email](mailto:faiqhammam@gmail.com)
+[Email](mailto:hammamfaiq@protonmail.com.com)
 
 </div>
 
