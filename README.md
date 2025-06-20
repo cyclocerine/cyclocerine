@@ -1,33 +1,37 @@
 <div align="center">
-    <h1>🚀 FAIQ HAMMAM</h1>
-</div>
-<div align="center">
-
-`{ AI ENGINEER, FULL STACK DEV }`
-
+  <img height="200" src="/assets/github-header-image.png"  />
 </div>
 
----
+###
+
+<p align="center">F I N T E C H  •  A I  •  T R A D I N G  •  D E V E L O P M E N T</p>
+
+###
 
 <div align="center">
-
-```
-F I N T E C H  •  A I  •  T R A D I N G  •  D E V E L O P M E N T
-```
-
-</div>
-
-## 📊 EXPERTISE
-
-<div align="center">
-
-| AI & DATA SCIENCE | FULL-STACK DEV | FINANCE |
-|:----------------:|:--------------:|:-------:|
-| Python           | React / Next.js| Algo Trading    |
-| TensorFlow       | Node.js        | Risk Analysis   |
-| Scikit-Learn     | MongoDB        | Market Prediction |
-| Data Analysis    | SQL            | Portfolio Optimization |
-
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="60" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="60" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="60" alt="digitalocean logo"  />
 </div>
 
 ## 🔥 SIGNATURE PROJECTS
@@ -66,32 +70,34 @@ def approach_to_markets():
         continuous_learning()
 ```
 
-## 📈 TRAJECTORY
+###
 
 <div align="center">
-
-```
-PAST         [ Financial Analysis → AI Integration → Algorithmic Systems ]
-PRESENT      [ Optimizing Trading Algorithms | Full-Stack FinTech Solutions ]
-FUTURE       [ Advanced Predictive Models | Institutional-Grade Trading Systems ]
-```
-
+  <a href="https://www.linkedin.com/in/faiq-hammam-mutaqin-9a3733217/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://ko-fi.com/cyclocerine" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
+  </a>
+  <a href="https://t.me/luajalah" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
 </div>
 
-## 🌐 NETWORK
+###
 
 <div align="center">
-
-[LinkedIn](https://www.linkedin.com/in/faiq-hammam-mutaqin-9a3733217/) • 
-[GitHub](https://github.com/cyclocerine) • 
-[Email](mailto:hammamfaiq@protonmail.com.com)
-
+  <a href="https://open.spotify.com/user/hammamfaiq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=d70i4umn8pce6gi650yd8ujpo&count=2" alt="Spotify recently played"  />
+  </a>
 </div>
 
----
+###
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyclocerine/cyclocerine/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyclocerine/cyclocerine/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cyclocerine/cyclocerine/output/pacman-contribution-graph.svg">
+</picture>
 
-> "The intersection of finance and technology is where the future is built."
-
-</div>
+###
