@@ -107,7 +107,7 @@ def approach_to_markets():
 
 <div align="center">
   <a href="https://open.spotify.com/user/hammamfaiq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=d70i4umn8pce6gi650yd8ujpo&count=4" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=d70i4umn8pce6gi650yd8ujpo&count=2" alt="Spotify recently played"  />
   </a>
 </div>
 
