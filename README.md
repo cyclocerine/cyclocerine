@@ -36,6 +36,7 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
+
 ![](https://github-readme-stats.vercel.app/api?username=cyclocerine&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=cyclocerine&theme=swift&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyclocerine&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
@@ -104,7 +105,7 @@ def approach_to_markets():
 
 ###
 <div align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"  />
 </div>
 ###
 
