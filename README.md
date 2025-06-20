@@ -107,7 +107,7 @@ def approach_to_markets():
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"  />
 </div>
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyclocerine/cyclocerine/output/pacman-contribution-graph-dark.svg">
