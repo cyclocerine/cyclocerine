@@ -34,6 +34,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="60" alt="digitalocean logo"  />
 </div>
 
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cyclocerine&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=cyclocerine&theme=swift&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyclocerine&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
 ## 🔥 SIGNATURE PROJECTS
 
 <div align="center">
@@ -94,6 +100,9 @@ def approach_to_markets():
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=d70i4umn8pce6gi650yd8ujpo&count=4" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
 
