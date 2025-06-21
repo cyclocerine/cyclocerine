@@ -1,6 +1,50 @@
-<div align="center">
+<!-- <div align="center">
   <img height="200" src="/assets/github-header-image.png"  />
+</div> -->
+<div align="center">
+  <div style="
+    width: 100%;
+    max-width: 800px;
+    height: 200px;
+    background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 50%, #3b82f6 100%);
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+  ">
+    <div style="
+      width: 80px;
+      height: 80px;
+      background: rgba(0,0,0,0.4);
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-right: 40px;
+      border: 2px solid rgba(255,255,255,0.2);
+      font-size: 32px;
+      font-weight: bold;
+      color: #00ff88;
+      font-family: 'Courier New', monospace;
+    ">
+      &gt;
+    </div>
+    <div>
+      <div style="font-size: 32px; font-weight: bold; margin-bottom: 8px;">
+        Hey There!, I'am Faiq
+      </div>
+      <div style="font-size: 18px; opacity: 0.9;">
+        AI/ML | Web Dev | Fullstack
+      </div>
+    </div>
+  </div>
 </div>
+
 
 ###
 
