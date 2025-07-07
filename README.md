@@ -50,17 +50,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo"  />
 </div>
 
+###
 
-
-### 📊 GitHub Stats:
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=cyclocerine&theme=swift&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=cyclocerine&theme=swift&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyclocerine&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-activity-graph.vercel.app/graph?username=cyclocerine&radius=16&theme=github-light&area=true&order=5&hide_title=false&hide_border=true&bg_color=F1F6F9&area_color=A4DD00)
+  <a href="https://www.linkedin.com/in/faiq-hammam-mutaqin-9a3733217/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://ko-fi.com/cyclocerine" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
+  </a>
+  <a href="https://t.me/luajalah" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+  <a href="https://paypal.me/cyclocerine?country.x=ID&locale.x=id_ID" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
+  </a>
 </div>
 
+###
 ## 🔥 SIGNATURE PROJECTS
 
 <div align="center">
@@ -100,18 +107,9 @@ def approach_to_markets():
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/faiq-hammam-mutaqin-9a3733217/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://ko-fi.com/cyclocerine" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="ko-fi logo"  />
-  </a>
-  <a href="https://paypal.me/cyclocerine?country.x=ID&locale.x=id_ID" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
-  </a>
-  <a href="https://t.me/luajalah" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=cyclocerine&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cyclocerine&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyclocerine&radius=16&theme=github-light&area=true&order=5&hide_title=false&hide_border=true&bg_color=F1F6F9&area_color=A4DD00" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
