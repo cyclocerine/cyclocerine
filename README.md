@@ -13,7 +13,7 @@
 ###
 ##
 <div align="center">
-  <a href="https://www.linkedin.com/in/faiq-hammam-mutaqin-9a3733217/" target="_blank">
+  <a href="https://www.linkedin.com/in/faiqhammam/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://ko-fi.com/cyclocerine" target="_blank">
@@ -40,7 +40,9 @@
 
 *AI-powered market movement forecasting system*
 
-### [Sudoku-Solver](https://github.com/cyclocerine/Sudoku-Solver)
+### [Hospital-Management-System](https://github.com/cyclocerine/HospitalManagementSystem)
+
+*Clean UI/UX Hospital Management System*
 </div>
 
 ## 🧠 PHILOSOPHY
