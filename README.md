@@ -6,7 +6,7 @@
 
 <p align="center">F I N T E C H  •  A I  •  T R A D I N G  •  D E V E L O P M E N T</p>
 
-## 💻 Tech Stack:
+##  Tech Stack:
 ###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
@@ -70,7 +70,7 @@
 </div>
 
 ###
-## 🔥 SIGNATURE PROJECTS
+##  SIGNATURE PROJECTS
 
 <div align="center">
 
@@ -87,7 +87,7 @@
 *Clean UI/UX Hospital Management System*
 </div>
 
-## 🧠 PHILOSOPHY
+##  PHILOSOPHY
 
 <div align="center">
 
