@@ -78,11 +78,7 @@
 
 *Advanced risk-managed algorithmic trading platform*
 
-### [Stock-Price-Prediction](https://github.com/cyclocerine/Stock-Price-Prediction)
-
-*AI-powered market movement forecasting system*
-
-### [Hospital-Management-System](https://github.com/cyclocerine/HospitalManagementSystem)
+### [Q-Alu](https://github.com/cyclocerine/qali-pytorch)
 
 *Clean UI/UX Hospital Management System*
 </div>
