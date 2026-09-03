@@ -78,9 +78,9 @@
 
 *Advanced risk-managed algorithmic trading platform*
 
-### [Q-Alu](https://github.com/cyclocerine/qali-pytorch)
+### [Q-Alu](https://github.com/cyclocerine/qalu-pytorch)
 
-*Clean UI/UX Hospital Management System*
+*Q-ALU: Quant Asymmetric Leaky Unit*
 </div>
 
 ##  PHILOSOPHY
