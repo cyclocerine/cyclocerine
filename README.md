@@ -78,7 +78,7 @@
 
 *Advanced risk-managed algorithmic trading platform*
 
-### [Q-Alu](https://github.com/cyclocerine/qalu-pytorch)
+### [Q-ALU](https://github.com/cyclocerine/qalu-pytorch)
 
 *Q-ALU: Quant Asymmetric Leaky Unit*
 </div>
