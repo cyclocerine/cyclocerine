@@ -76,7 +76,7 @@
   <text x="180" y="125" font-family="'Segoe UI', sans-serif" font-size="18" font-weight="300" fill="rgba(255,255,255,0.9)">
     <tspan>AI/ML</tspan>
     <tspan dx="20" opacity="0.6">|</tspan>
-    <tspan dx="20">Web Dev</tspan>
+    <tspan dx="20">Sysadmin</tspan>
     <tspan dx="20" opacity="0.6">|</tspan>
     <tspan dx="20">Fullstack</tspan>
   </text>
